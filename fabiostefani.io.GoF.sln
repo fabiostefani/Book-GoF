@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabiostefani.io.GoF.Adapter", "fabiostefani.io.GoF.Adapter\fabiostefani.io.GoF.Adapter.csproj", "{4C85D6BA-09CD-4730-A5A8-6760A524C955}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabiostefani.io.GoF.Facade", "fabiostefani.io.GoF.Facade\fabiostefani.io.GoF.Facade.csproj", "{9F314619-129F-4714-A219-24DA82CDFE2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{4C85D6BA-09CD-4730-A5A8-6760A524C955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C85D6BA-09CD-4730-A5A8-6760A524C955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C85D6BA-09CD-4730-A5A8-6760A524C955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F314619-129F-4714-A219-24DA82CDFE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F314619-129F-4714-A219-24DA82CDFE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F314619-129F-4714-A219-24DA82CDFE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F314619-129F-4714-A219-24DA82CDFE2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{B2368CBB-1BE3-4C6C-A68A-DCFEF3F4634C} = {172E283F-91EC-4738-9256-E787FEDB13D0}
 		{80357099-5A9B-49FD-81DE-B189A6720301} = {172E283F-91EC-4738-9256-E787FEDB13D0}
 		{4C85D6BA-09CD-4730-A5A8-6760A524C955} = {5C7B7ED4-504E-4E00-8A88-4BB186C0F86C}
+		{9F314619-129F-4714-A219-24DA82CDFE2B} = {5C7B7ED4-504E-4E00-8A88-4BB186C0F86C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E116DD1-7E8D-4C09-8489-839C9B29B4F1}
